@@ -18,3 +18,4 @@ build check
 11
 java
 1223
+legend
